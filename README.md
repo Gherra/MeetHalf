@@ -66,7 +66,12 @@ Existing apps like MeetWays and Midpointr have limitations:
 
 ## Screenshots
 
-Coming soon!
+<img width="1040" height="831" alt="image" src="https://github.com/user-attachments/assets/fe76f581-ba81-4f84-93c0-a4fde0cd0e57" />
+<img width="1040" height="831" alt="image" src="https://github.com/user-attachments/assets/ee609edb-6c19-44a1-b0a6-6c3103d3e290" />
+<img width="1040" height="863" alt="image" src="https://github.com/user-attachments/assets/8fbb780a-30fa-4a58-964b-547acf13f272" />
+
+
+
 
 ## API Keys Setup
 
