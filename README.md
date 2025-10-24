@@ -1,5 +1,10 @@
 # MeetHalf 🎯
 
+> ⚠️ **Work in Progress** - This project is actively being developed as a learning project. Features are still being added and refined.
+
+[![Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/Gherra/MeetHalf)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 A smart meeting planner that finds the fairest meeting location for groups where everyone has different travel modes.
 
 ## Features
